@@ -1,1 +1,11 @@
-reflexion-semana2.txt
+¿Por qué es importante para un desarrollador
+ saber usar la terminal para navegar y
+ organizar archivos dentro de un proyecto?
+
+Por qué la terminal es importante
+
+Cómo permite organizar un proyecto
+
+Cómo ayuda a navegar entre carpetas y archivos
+
+la utilidad en el trabajo para un desarrollador 

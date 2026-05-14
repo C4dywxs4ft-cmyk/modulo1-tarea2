@@ -1,1 +1,4 @@
 comandos-terminal.txt
+mkdir 
+cd 
+touch 

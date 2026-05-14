@@ -1,4 +1,3 @@
-comandos-terminal.txt
-mkdir 
+ mkdir 
 cd 
 touch 

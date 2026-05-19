@@ -1,0 +1,4 @@
+¿por que es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git? 
+
+Git es importante porque permite llevar un control de los cambios realizados en mis proyectos, puedo observar que modifique y recuperar versiones anteriores en caso de cometer un error, tambien ayuda a mantener mi trabajo organizado...
+Github guarda una copia de seguridad en la nube, esto me permite compartir mi trabajo de forma segura, por estas razones considero que Git es una herramienta fundamental. 

@@ -1,0 +1,8 @@
+Repositorio:
+es la carpeta donde se guardan los archivos de un proyecto, tambien almacena el historial de todos los cambios realizados.
+
+ Commit:
+ Es un registro que guarda los cambios hechos en un proyecto, cada commit lleva un mensaje que describe lo que se modifico. 
+
+ Push:
+ es el comando que envia los cambios al repositorio de githud, permitiendo publicar el trabajo en la nube. 

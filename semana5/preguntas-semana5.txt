@@ -1,0 +1,7 @@
+pregunta 1: Una direccion que define como responde el servidor a una solicitud
+
+pregunta 2: GET 
+
+pregunta 3: POST 
+
+pregunta 4: Interfaz que permite que sistemas o aplicaciones se comuniquen entre si 

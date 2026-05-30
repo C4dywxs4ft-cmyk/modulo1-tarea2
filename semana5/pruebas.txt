@@ -1,0 +1,5 @@
+Ruta / : Muestra el mensaje "servidor activo".
+
+Ruta /saludo : Muestra el mensaje "hola comunidad".
+
+Ruta /mensaje /juan : Muestra el mensaje "Hola juan".

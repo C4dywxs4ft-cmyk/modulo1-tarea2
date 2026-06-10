@@ -1,0 +1,14 @@
+Al enviar una peticion POST a la ruta http://localhost:3000/registro con el siguiente JSON:
+
+{
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+}
+
+el servidor devuelve la siguiente respuesta: 
+
+{
+    "estado": "Datos recibidos",
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+}

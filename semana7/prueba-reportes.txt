@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes, el sistema muestra
+todos los reportes registrados. Cada reporte contiene un id, un tipo y una descripcion.
+La informacion se almacena en un array en memoria y permanece desponible 
+mientras  el servidor esta en ejecucion. 

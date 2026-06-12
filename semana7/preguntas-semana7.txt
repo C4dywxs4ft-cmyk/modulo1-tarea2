@@ -1,0 +1,11 @@
+Pretunta 1: 
+Respuesta: B. Una estructura que permite almacenar varios datos en una lista.
+
+Pregunta 2:
+Respuesta: B. GET.
+
+Pregunta 3:
+Respuesta: B. POST.
+
+pregunta 4:
+Respuesta: B. Permitir que diferencias sistemas o aplicaciones intercambien informacion. 

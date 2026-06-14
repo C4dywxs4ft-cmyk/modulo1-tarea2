@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnologicas
+funcionen de manera estable para ofrecer un buen servicio 
+a las comunidades. Un servidor seguro ayuda a proteger la 
+informacion y evita problemas que puedan afectar a las perdonas o usuarios. 
+tambien permite que los servidores enten disponibles
+cuando las personas los necesiten
+el monitoreo y los registros facilitan detectar 
+errores y mejorar el funcionamiento del sistema. 
+con una buena administracion del servidor se puede 
+brindar un servicio mas confiable y eficiente. 

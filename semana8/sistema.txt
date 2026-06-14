@@ -1,0 +1,12 @@
+Los comandos de linux permiten obtener informacion
+importante sobre el sistema y los usuarios. 
+
+El comando uname -a muestra detalles del sistema 
+operativo, como la version del karnel y la 
+arquitectura del equipo. 
+
+Por otra parte, el comando whoami indica el nombre 
+del usuario que tiene la sesion activa en ese momento. 
+
+Estas herramientas son utiles para administrar el 
+sistema y conocer informacion basica del entorno de trabajo. 

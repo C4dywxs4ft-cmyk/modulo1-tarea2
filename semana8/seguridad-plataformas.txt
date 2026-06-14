@@ -1,0 +1,5 @@
+ No exponer datos personales de los usuarios.
+Utilizar contraseñas seguras y unicas.
+Proteger las credenciales de acceso.
+Registrar y monitorear los accesos al sistema.
+Limitar el acceso a informacion sencible segun los permisos de cada usuario. 

@@ -1,0 +1,11 @@
+¿Que evento activa el flujo?
+
+el registro de una nueva incidencia en el sistema.
+
+¿Que mensaje se enviaria a telegram?
+
+”Nuevo reporte recibido. Revisar el sistema para iniciar el seguimiento".
+
+¿Que informacion no deberia enviarse por seguridad?
+
+No se deben enviar nombre completos, documentos de identidad, direcciones, numeros de telefono, contraseñas ni ningun otro dato personal o informacion sencible. 

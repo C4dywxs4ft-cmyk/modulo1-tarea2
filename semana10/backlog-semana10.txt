@@ -1,0 +1,7 @@
+Como ciudadano quiero registrar una incidencia en mi comunidad, para que el equipo de veeduria pueda revisarla y darle seguimiento. 
+
+Como coordinador quiero recibir una notificacion en telegram cuando se registre una nueva incidencia para actuar de manera oportuna.
+
+Como miembro del equipo quiero consultar los reportes registrados para conocer el estado de cada casa y hacer seguimiento.
+
+Como administrador quiero actualizar el estado de las incidencias para mantener la informacion organizada y facilitar el trabajo del equipo. 

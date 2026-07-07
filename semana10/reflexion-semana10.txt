@@ -1,0 +1,15 @@
+Considero que las metodologias agiles ayudan
+a organizar mejor el trabajo y establecer 
+prioridades para cumplir los objetivos.
+
+El backlog permite identificar las tareas
+más importantes y las iteraciones ayudan
+a revisar los avances y hacer mejoras.
+
+Además, herramientas como n8n automatizan
+tareas repetitivas y Telegram facilita la
+comunicación mediante notificaciones.
+
+Sin embargo, estas herramientas deben usarse
+con responsabilidad para proteger la información
+y mantener siempre una supervisión humana.

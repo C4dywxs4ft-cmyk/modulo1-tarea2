@@ -1,0 +1,11 @@
+Considero que una plataforma tecnológica
+debe contar con una base de datos
+para organizar y almacenar la información.
+La autenticación de usuarios permite
+controlar quién puede acceder al sistema.
+También ayuda a proteger la información
+y evitar accesos no autorizados.
+Es importante cuidar los datos personales
+para proteger la privacidad de la comunidad.
+En mi opinión, estas medidas fortalecen
+la confianza y la participación ciudadana.

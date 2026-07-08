@@ -1,0 +1,10 @@
+El login permite identificar a los usuarios
+antes de darles acceso a la plataforma.
+Considero que este proceso es importante
+porque ayuda a proteger la información.
+Algunas rutas deben estar protegidas
+para evitar accesos no autorizados.
+De esta forma solo los usuarios permitidos
+pueden realizar determinadas acciones.
+No se deben exponer contraseñas, documentos,
+teléfonos, direcciones ni datos sensibles.

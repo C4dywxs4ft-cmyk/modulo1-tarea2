@@ -1,0 +1,8 @@
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Se ha creado una nueva causa en Petición en 3 Clics. Ingresa a la plataforma para conocerla y brindar tu apoyo."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar números de identificación, teléfonos, direcciones, correos electrónicos, contraseñas ni otros datos personales sensibles.
